@@ -267,7 +267,7 @@ body {
 }
 
 .announcement:hover {
-    height: min-content;
+    min-height: min-content;
     overflow: visible;
 }
 
