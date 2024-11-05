@@ -269,6 +269,7 @@ body {
 .announcement:hover {
     min-height: min-content;
     overflow: visible;
+    flex: auto;
 }
 
 .trending {
