@@ -299,7 +299,6 @@ p.name {
 }
 
 .announcement:hover {
-    min-height: min-content;
     overflow: visible;
     flex: auto;
 }
